@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Output folders
+recording/
+snapshot/
+
+# Video and audio files
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+
+# Pillow image cache
+*.thumb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/ 

@@ -1,4 +1,19 @@
-# AI Powered Green Screen Remover & Background Replacer
+# <p align="center">✨AI Powered Green Screen Remover✨</p>
+<!-------------------------------------------------------------------------------------------------------------------------------------->
+<div align="center">
+<p>
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=harshal0212%2FGreen-Screen-Remover%20&countColor=%23263759&style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/harshal0212/Green-Screen-Remover)
+![GitHub last commit](https://img.shields.io/github/last-commit/harshal0212/Green-Screen-Remover)
+![GitHub repo size](https://img.shields.io/github/repo-size/harshal0212/Green-Screen-Remover)
+![GitHub total lines](https://sloc.xyz/github/harshal0212/Green-Screen-Remover)
+
+</p>
+</div>
+
+<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 An advanced, real-time green screen remover and background replacer using Python, OpenCV, and MoviePy. Supports webcam or video input, live background toggling, and high-quality chroma keying with spill suppression and edge feathering.
 
